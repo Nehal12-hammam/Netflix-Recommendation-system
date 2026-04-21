@@ -87,9 +87,10 @@ Netflix Movies and TV Shows dataset containing:
 This project was developed collaboratively as part of a team effort.
 
 ### 👩‍💻 Team Members
-- Mariam Magdy
+- Nehal Hammam 
+- Mariam Magdy -https://github.com/MariamElatbany
 - Heba Omran - https://github.com/hebaomran29
 - Manal Alaaeldin - https://github.com/manalelgamil123-star
-- Nehal Hammam - https://github.com/Nehal12-hammam
+
 
 
